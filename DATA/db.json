@@ -1,19 +1,19 @@
 {
-    "noticias": [
-        {
-            "id": 1,
-            "titulo": "Novo campus da Uniesp será inaugurado em 2025",
-            "texto": "A Uniesp anunciou a inauguração de um novo campus no próximo ano, expandindo sua presença e serviços educacionais na região."
-        },
-        {
-            "id": 2,
-            "titulo": "Semana de Tecnologia atrai centenas de estudantes",
-            "texto": "O evento anual da Semana de Tecnologia contou com palestras de especialistas, workshops e desafios de programação, unindo alunos e profissionais do setor."
-        },
-        {
-            "id": 3,
-            "titulo": "Cursos online são lançados com foco em acessibilidade",
-            "texto": "A instituição lançou uma nova plataforma de cursos online, oferecendo recursos inclusivos para alunos com necessidades especiais."
-        }
-    ]
+  "noticias": [
+    {
+      "id": "1",
+      "titulo": "Novo campus da Uniesp será inaugurado em 2025",
+      "texto": "A Uniesp anunciou a inauguração de um novo campus no próximo ano, expandindo sua presença e serviços educacionais na região."
+    },
+    {
+      "id": "2",
+      "titulo": "Semana de Tecnologia atrai centenas de estudantes",
+      "texto": "O evento anual da Semana de Tecnologia contou com palestras de especialistas, workshops e desafios de programação, unindo alunos e profissionais do setor."
+    },
+    {
+      "id": "3",
+      "titulo": "Cursos online são lançados com foco em acessibilidade",
+      "texto": "A instituição lançou uma nova plataforma de cursos online, oferecendo recursos inclusivos para alunos com necessidades especiais."
+    }
+  ]
 }

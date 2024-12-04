@@ -6,6 +6,7 @@ O projeto a seguir, trata-se de uma aplicação de um site universitário desenv
 
 ## Estrutura do Projeto 🗂️
 
+```plaintext
 📂 UNIESP
 ├── 📂 data
 │   └── db.json
@@ -17,17 +18,18 @@ O projeto a seguir, trata-se de uma aplicação de um site universitário desenv
 │   │   ├── BannerAd.jsx
 │   │   └── Navbar.jsx
 │   ├── 📂 pages
+│   │   ├── 📂 Admin
+│   │   │   ├── AdminNoticias.jsx
+│   │   │   ├── CadastroNoticia.jsx
+│   │   │   └── EditarNoticias.jsx
 │   │   ├── Faculdade.jsx
 │   │   ├── DpoLgpd.jsx
 │   │   ├── Inicial.jsx
 │   │   ├── Noticias.jsx
 │   │   └── VizualizaNoticia.jsx
-│   ├── 📂 Admin
-│   │   ├── AdminNoticias.jsx
-│   │   ├── CadastroNoticia.jsx
-│   │   └── EditarNoticias.jsx
 │   └── App.jsx
 └── package.json
+
 
 ---
 
