@@ -8,6 +8,9 @@ import Faculdade from './pages/Faculdade'
 import DpoLgpd from './pages/Dpo.Lgpd'
 import Noticias from './pages/Noticias'
 import VisualizaNoticia from './pages/VisualizaNoticia'
+import AdminNoticias from './pages/admin/AdminNoticias'
+import CadastroNoticia from './pages/admin/CadastroNoticias'
+import EditarNoticia from './pages/admin/EditarNoticia'
 
 
 const App = () => {
@@ -29,8 +32,10 @@ const App = () => {
         <Route path="/dpo-lgpd" element={<DpoLgpd/>}/>
         <Route path="/noticias" element={<Noticias/>}/>
         <Route path="/visualiza-noticia/:id" element={<VisualizaNoticia/>}/>
-        
-
+        <Route path="/admin-noticias" element={<AdminNoticias />} />
+        <Route path="/cadastrar-noticia" element={<CadastroNoticia />} />
+        <Route path="/editar-noticia/:id" element={<EditarNoticia />} />
+      </Routes> 
     </Box>
    </Container>
    </BrowserRouter>
